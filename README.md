@@ -1,2 +1,2 @@
 # pinglunxiu
-spider code for www.pinglun.cn
+spider code for www.pinglunxiu.cn
