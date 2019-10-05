@@ -1,6 +1,6 @@
 # pinglunxiu
 
-www.pinglunxiu.cn
+
 
 在线抓取和分析天猫，京东，苏宁，当当和亚马逊电商平台商品评论，并对评论内容的进行简单的情感分析和词云分析
 
@@ -31,6 +31,6 @@ www.pinglunxiu.cn
 requests, threading, snownlp, wordcloud, jieba, matplotlib, pillow, numpy, scrapy(使用了其中的选择器）
 
 
-www.pinglunxiu.cn
+
 
 ![pinglunxiu](https://github.com/QiliWu/pinglunxiu/blob/master/pinglunxiu.png)
